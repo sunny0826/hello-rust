@@ -1,0 +1,6 @@
+[book]
+authors = ["Xudong Guo"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "Hello Rust"
