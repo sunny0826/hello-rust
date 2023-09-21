@@ -11,7 +11,15 @@
   - [Async](topics/async/README.md)
   - [Trait](topics/trait/README.md)
   - [Attribute](topics/attribute/README.md)
-- [Step by Step](step-by-step/README.md)
+- [Learning from Examples](examples/README.md)
+  - [Variables and Data Types](examples/variables-and-data-types.md)
+  - [Control Flow and Match](examples/control-flow-and-match.md)
+  - [Struct and Function](examples/struct-and-function.md)
+  - [Enum and Option](examples/enum-and-option.md)
+  - [Error Handling and Result](examples/error-handling-and-result.md)
+  - [Lifetime and References](examples/lifetime-and-references.md)
+  
+<!-- - [Step by Step](step-by-step/README.md)
   - [Hello World](step-by-step/0-hello-world/README.md)
   - [Variables and Datatypes](step-by-step/1-variables-and-datatypes/README.md)
   - [Control Flow](step-by-step/2-control-flow/README.md)
@@ -39,8 +47,7 @@
   - [RefCell](step-by-step/26-refcell/README.md)
   - [Std Sync](step-by-step/27-std-sync/README.md)
   - [Macro More](step-by-step/28-macro-more/README.md)
-  - [FFI](step-by-step/29-FFI/README.md)
-
+  - [FFI](step-by-step/29-FFI/README.md) -->
 - [Q & A](q-and-a/README.md)
   - [Explanation of ownership](q-and-a/explanation-of-ownership.md)
   - [Explain borrowing and references](q-and-a/explain-borrowing-and-references.md)
@@ -59,4 +66,4 @@
   - [What is "memory safety" in Rust?](q-and-a/what-is-memory-safety-in-rust.md)
   - [What does "zero-cost abstraction" mean in Rust?](q-and-a/what-does-zero-cost-abstraction-mean-in-rust.md)
   - [What is "immutability" in Rust?](q-and-a/what-is-immutability-in-rust.md)
-  
+

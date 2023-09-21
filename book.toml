@@ -4,3 +4,16 @@ language = "zh-CN"
 multilingual = false
 src = "src"
 title = "Hello Rust"
+
+[output.html.search]
+limit-results = 10
+
+[output.html]
+git-repository-url = "https://github.com/sunny0826/hello-rust"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/sunny0826/hello-rust/edit/master/guide/{path}"
+cname = "hello-rust.guoxudong.io"
+
+[output.html.fold]
+enable = true    # whether or not to enable section folding
+level = 0         # the depth to start folding
