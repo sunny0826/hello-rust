@@ -18,7 +18,7 @@
   - [Enum and Option](examples/enum-and-option.md)
   - [Error Handling and Result](examples/error-handling-and-result.md)
   - [Lifetime and References](examples/lifetime-and-references.md)
-  
+  - [Generic and Traits](examples/generic-and-traits.md)
 <!-- - [Step by Step](step-by-step/README.md)
   - [Hello World](step-by-step/0-hello-world/README.md)
   - [Variables and Datatypes](step-by-step/1-variables-and-datatypes/README.md)
