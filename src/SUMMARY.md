@@ -57,3 +57,6 @@
   - [Describe what macros are in Rust](q-and-a/describe-what-macros-are-in-rust.md)
   - [What is the "module system" in Rust?](q-and-a/what-is-the-module-system-in-rust.md)
   - [What is "memory safety" in Rust?](q-and-a/what-is-memory-safety-in-rust.md)
+  - [What does "zero-cost abstraction" mean in Rust?](q-and-a/what-does-zero-cost-abstraction-mean-in-rust.md)
+  - [What is "immutability" in Rust?](q-and-a/what-is-immutability-in-rust.md)
+  
